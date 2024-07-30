@@ -19,6 +19,7 @@ Build/
 *.VC.db
 *.VC.VC.opendb
 Plugins/*
+Pavitr/*
 
 # Compiled source files
 *.pdb
